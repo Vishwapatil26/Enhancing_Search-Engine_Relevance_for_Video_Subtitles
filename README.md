@@ -14,7 +14,7 @@ This project enhances video subtitle search relevance using Natural Language Pro
 - Subtitle data is stored in a database file.
 - Requires preprocessing and chunking for optimal search performance.
 
-🔑 Core Process
+🔑 Core Process    
 Part 1: Document Ingestion     
 1. Read & preprocess subtitle data.
 2. Convert subtitles into vector embeddings using:  
